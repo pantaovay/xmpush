@@ -4,10 +4,12 @@
  * @author wangkuiwei
  * @name ErrorCode
  * @desc 错误码
+ *
  */
-namespace Pantaovay\XMPush;
+namespace xmpush;
 
-class ErrorCode
-{
+class ErrorCode {
 	const Success = 0;
 }
+
+?>

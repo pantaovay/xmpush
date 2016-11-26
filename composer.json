@@ -9,14 +9,9 @@
       "homepage": "https://github.com/pantaovay"
     }
   ],
-  "require": {
-    "php": ">=5.6.0",
-    "ext-gd": "*",
-    "ext-fileinfo": "*"
-  },
   "autoload": {
     "psr-4": {
-      "Pantaovay\\XMPush\\": "src/"
+      "xmpush\\": "src/"
     }
   }
 }
